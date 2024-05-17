@@ -1,6 +1,6 @@
 #🔄 Economia Circular
 
-Este é um projeto da faculdade focado em economia circular, onde diviamos usar dois módulos importantes,
+Este é um projeto da faculdade focado em economia circular, onde deviamos usar dois módulos importantes,
 Big Data e engenharia de software.
 Por conta disso eu fiz uma pesquisa fictícia pelo Google Forms, onde o objetivo da "minha empresa", era de reunir dados da própria população,
 levantar uma média da região que precisa de mais atenção e vender esses dados para empresas coletoras de resíduos como a Urbam.
