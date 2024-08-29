@@ -8,7 +8,7 @@ levantar uma média da região que precisa de mais atenção e vender esses dado
 ## 📸 Fotos do Projeto
 
 ![image](https://github.com/viladavi6/sjc-limpeza-faculdade/assets/158050165/b7792e6e-d35e-4e46-9ada-b93ef718b47b)
-![image](https://github.com/viladavi6/sjc-limpeza-faculdade/assets/158050165/7c0bc91b-f5be-41fa-989d-90666a332218)
+![image](https://github.com/user-attachments/assets/806809b7-a82f-4b07-a748-4aaaeec2b5cc)
 ![image](https://github.com/viladavi6/sjc-limpeza-faculdade/assets/158050165/9572f46f-8a3e-4935-b384-1d2a11918d77)
 
 ## 🔗 Ferramentas Utilizadas no Projeto
